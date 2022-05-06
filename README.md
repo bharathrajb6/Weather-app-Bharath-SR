@@ -31,7 +31,7 @@ REACT_APP_WEATHER_API_KEY=YOUR_KEY
 Finally clone this repository, install dependencies and run the local server
 
 ```bash
-git clone https://github.com/esnz/reactweather.git
+git clone https://github.com/bharathrajb6/Weather-app-Bharath-Raj
 ```
 
 ```bash
